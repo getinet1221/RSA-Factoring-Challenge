@@ -36,5 +36,3 @@ How far can you go in less than 5 seconds?
 ## Author
 - [Getinet Amare Mekonnen](https://www.github.com/getinet1221)
 - [Telegram](t.me/gama2112)
-
-# RSA-Factoring-Challenge
